@@ -1,4 +1,4 @@
-package synchronizationObjects;
+package _2_synchronizationObjects;
 
 // An example of CyclicBarrier.
 import java.util.concurrent.*;

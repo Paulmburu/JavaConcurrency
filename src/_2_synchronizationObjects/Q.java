@@ -1,4 +1,4 @@
-package synchronizationObjects;
+package _2_synchronizationObjects;
 
 // An implementation of a producer and consumer
 // that use semaphores to control synchronization.

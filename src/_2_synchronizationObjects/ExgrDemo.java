@@ -1,4 +1,4 @@
-package synchronizationObjects;
+package _2_synchronizationObjects;
 
 // An example of Exchanger.
 import java.util.concurrent.Exchanger;

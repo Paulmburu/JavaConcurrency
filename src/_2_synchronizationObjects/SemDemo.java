@@ -1,4 +1,4 @@
-package synchronizationObjects;
+package _2_synchronizationObjects;
 
 // A simple semaphore example.
 

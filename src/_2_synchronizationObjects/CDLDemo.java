@@ -1,4 +1,4 @@
-package synchronizationObjects;
+package _2_synchronizationObjects;
 
 // An example of CountDownLatch.
 import java.util.concurrent.CountDownLatch;
