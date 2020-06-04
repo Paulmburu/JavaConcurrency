@@ -1,0 +1,2 @@
+# JavaConcurrency
+A recap of [Java: The Complete Reference](https://www.oreilly.com/library/view/java-the-complete/9781260440249/) Multithreaded Programming and Concurrency Utilities in comparison to the modern [Kotlin Coroutines](https://github.com/Paulmburu/kotlin_for_professionals/tree/master/KotlinLang_Docs/src/_8_coroutines) alias ```"Runnables with super powers"```:zap: from the [Kotlin Official Docs:rocket:](https://kotlinlang.org/docs/reference/coroutines/coroutines-guide.html)
